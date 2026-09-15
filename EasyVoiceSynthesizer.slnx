@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Infrastructure/">
+    <Project Path="EasyNAudio/EasyVoiceSynthesizer.NAudio.csproj" Id="a6c3018a-1dff-4537-b24d-4814bd4c87c1" />
+    <Project Path="EasyVoiceSynthesizer/EasyVoiceSynthesizer.SherpaOnnx.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/UI/">
+    <Project Path="EasyVoiceSynthesizer.WpfUI/EasyVoiceSynthesizer.WpfUI.csproj" Id="bfabf5bf-aa61-4e87-ac5a-9c8b613f6e61" />
+  </Folder>
+  <Project Path="EasyVoiceSynthesizer.Core/EasyVoiceSynthesizer.Application.csproj" Id="c673f18b-a7fe-4836-b381-f24f526c3387" />
+  <Project Path="EasyVoiceSynthesizer.Domain/EasyVoiceSynthesizer.Domain.csproj" Id="3e88cd25-b436-4072-a6f3-fd94b7cfbc5b" />
+  <Project Path="EasyVoiceSynthesizer.Localization/EasyVoiceSynthesizer.Localization.csproj" Id="ef5b3ed6-2f8e-4e38-bdd5-bbebec2f94f4" />
+  <Project Path="EasyVoiceSynthesizer.ViewModels/EasyVoiceSynthesizer.ViewModels.csproj" Id="148b1a8c-faac-4531-8064-b5b0a3db7cb5" />
+</Solution>
